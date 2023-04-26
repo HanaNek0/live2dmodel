@@ -1,0 +1,10 @@
+{
+  "type": 0,
+  "model": "neptune_santa.moc",
+  "textures": [
+    "neptune_santa.1024/texture_00.png",
+    "neptune_santa.1024/texture_01.png",
+    "neptune_santa.1024/texture_02.png"
+  ],
+  "physics_v2": {}
+}
